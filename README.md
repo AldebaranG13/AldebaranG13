@@ -1,5 +1,25 @@
-## Hi there 👋
+# Hi! I'm AldebaranG13
 
-Your random developer that can spell antidisestablishmentarianism, supercalifragilisticexpialidocious, and pneumonoultramicroscopicsilicovolcanoconiosis for some reason
+Your random young developer that can spell long words for some reason
+![](https://komarev.com/ghpvc/?username=AldebaranG13&color=blue&abbreviated=true)
 
-I'm currently still learning some website basics, especially Javascript. So if you have some tips and tricks please tell me!
+## What I'm working on
+- Nothing right now
+
+## Hobbies
+- Playing games (of course)
+- Learning how things work
+- Working on projects
+
+## Contact
+- Email (Primary): `aldebaran.gibran@fiwa.sch.id`
+- Email (Secondary): `aldebaran.gibranaltaf1704@gmail.com`
+- Discord: `AldebaranG13`
+
+## Coding languages I use
+![](https://skillicons.dev/icons?i=html,css,js)
+I know I know, very basic
+
+Thanks for stopping by!
+
+![My profile picture lol](https://avatars.githubusercontent.com/u/240885846?v=4)
