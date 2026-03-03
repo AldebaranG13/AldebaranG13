@@ -1,6 +1,6 @@
 # Hi! I'm AldebaranG13
 
-Your random young developer that can spell long words for some reason
+Your random young developer that can spell long words for some reason<br>
 ![](https://komarev.com/ghpvc/?username=AldebaranG13&color=blue&abbreviated=true)
 
 ## What I'm working on
@@ -17,7 +17,7 @@ Your random young developer that can spell long words for some reason
 - Discord: `AldebaranG13`
 
 ## Coding languages I use
-![](https://skillicons.dev/icons?i=html,css,js)
+![](https://skillicons.dev/icons?i=html,css,js)<br>
 I know I know, very basic
 
 Thanks for stopping by!
