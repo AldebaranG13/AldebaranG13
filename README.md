@@ -15,10 +15,11 @@
 ```txt
 👤 Name      :: Aldebaran
 🎓 Student Developer
-💻 Frontend Developer
+💻 Web Developer
+⚛️ React + Vite Enthusiast
 📰 Lead Developer @ Fitrah Tribune
 🧩 Favourite hobby :: Figuring out how things work
-🎮 Side quest :: Gaming
+🎮 Side quest :: Minecraft
 ```
 
 ---
@@ -29,44 +30,23 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vscode&perline=8"/>
 </p>
 
-Currently learning more every project 🚀
+Currently building modern frontend projects while learning something new every time 🚀
 
 ---
 
 ## 📊 github dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AldebaranG13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldebaranG13&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AldebaranG13&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AldebaranG13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldebaranG13&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 activity graph
+## 📈 contribution graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldebaranG13&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AldebaranG13&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
----
-
-## 📦 language statistics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AldebaranG13&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AldebaranG13&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AldebaranG13&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -75,11 +55,21 @@ Currently learning more every project 🚀
 
 ### Fitrah Tribune Website
 
-A student-led newspaper website that I'm building as the Lead Developer.
+Student-led newspaper website built with **React + Vite**.
+
+As Lead Developer, I work on the website and occasionally help write the physical newspaper when we're short on writers.
 
 🔗 https://github.com/Fitrah-Tribune/fitrah-tribune-website
 
-Besides building the website, I also help write the physical newspaper because we're a little short on writers 😅
+---
+
+## 🌱 currently learning
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Better UI/UX
+- 🌐 Modern web development
+- 🧠 How browsers actually work
 
 ---
 
@@ -101,7 +91,7 @@ A friend founded Fitrah Tribune and needed someone to build the website.
 
 I happened to know web development...
 
-...and now I'm here 😄
+...and now I'm here.
 
 </details>
 
@@ -117,25 +107,14 @@ https://github.com/Fitrah-Tribune
 <details>
 <summary><b>what do you actually do?</b></summary>
 
-• Build the website
-
-• Fix bugs
-
-• Add features
-
-• Help write the physical newspaper
+- 💻 Develop the website
+- 🐛 Fix bugs
+- ✨ Add new features
+- 📰 Help write the physical newspaper
 
 Basically whatever needs doing 😅
 
 </details>
-
----
-
-## 😂 random dev joke
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-</p>
 
 ---
 
@@ -148,5 +127,5 @@ Basically whatever needs doing 😅
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
 </p>
