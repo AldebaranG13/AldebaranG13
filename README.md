@@ -27,7 +27,7 @@
 ## 🛠 tech stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vscode,cloudflare,supabase&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,vscode,cloudflare,supabase,postgres&perline=8"/>
 </p>
 
 Currently building modern frontend projects while learning something new every time 🚀
